@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, agent-orchestrator!")
+	fmt.Println("你好，agent-orchestrator！")
 }
