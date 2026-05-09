@@ -1,0 +1,8 @@
+$schema: https://raw.githubusercontent.com/ComposioHQ/agent-orchestrator/main/schema/config.schema.json
+
+repo: yinzhezq/test-agent-orchestrator
+defaultBranch: main
+
+runtime: tmux
+agent: claude-code
+workspace: worktree
