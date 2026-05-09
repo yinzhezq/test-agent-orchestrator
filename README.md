@@ -27,3 +27,17 @@ workspace: worktree
 - worktree 隔离与合并
 - tmux 会话管理
 - Claude Code 与 orchestrator 的集成
+
+## 使用示例
+
+运行：
+
+```sh
+go run hello.go
+```
+
+预期输出：
+
+```
+你好，agent-orchestrator！
+```
